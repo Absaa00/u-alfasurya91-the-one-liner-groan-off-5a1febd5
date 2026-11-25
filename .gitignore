@@ -1,0 +1,9 @@
+# groan-off run artefacts — keep the repo to source only
+__pycache__/
+*.py[cod]
+.pytest_cache/
+entry.txt
+.output/
+.DS_Store
+Thumbs.db
+*.log
